@@ -1,6 +1,6 @@
 {
   "name": "gulp-buster-kmt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A wrapper around gulp-buster for outputting php specific for KMT",
   "main": "index.js",
   "author": "Kingsquare",
